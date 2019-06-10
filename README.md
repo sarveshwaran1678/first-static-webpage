@@ -1,7 +1,7 @@
 # first-static-webpage
 
 
-This is the first time trying out how to develop an HTML page.. 
+This is the first time trying out how to script an HTML page.. 
 
 
 This has two key feature 
